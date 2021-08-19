@@ -20,4 +20,3 @@ level12|8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL|tar -xf - gunzip - bunzip2 xxd -r
 level13|4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e|ssh -i RSA-file User@localhost -p 2220
 level14|BfMYroe26WYalil77FoDi9qh59eK5xNr|nc localhost 30000|Connects you to target, TCP 
 level15|cluFn7wTiGryunymYOu4RcffSxQluehd|openssl s_client -connect localhost:30001
-level16|
